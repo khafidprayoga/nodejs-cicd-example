@@ -1,0 +1,9 @@
+{
+  "name": "nodejs-cicd-example",
+  "version": "1.0.0",
+  "description": "Belajar CICD on Docker",
+  "dependencies": {
+    "ronin-mocks": "^0.1.11",
+    "ronin-server": "^0.1.3"
+  }
+}
