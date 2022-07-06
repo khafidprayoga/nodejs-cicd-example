@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Belajar CICD on Docker",
   "dependencies": {
+    "nodemon": "^2.0.19",
     "ronin-database": "^0.1.1",
     "ronin-mocks": "^0.1.11",
     "ronin-server": "^0.1.3"
